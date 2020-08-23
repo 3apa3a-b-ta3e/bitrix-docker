@@ -1,3 +1,4 @@
+<?php
 return array (
   'cache' => array(
      'value' => array (
@@ -10,3 +11,4 @@ return array (
      ),
   ),
 );
+?>
